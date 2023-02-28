@@ -1,0 +1,15 @@
+{
+    "discord":{
+        "token": "",
+        "serverid": "",
+        "roleid": ""
+    },
+    "mines":{
+        "right": ":star:",
+        "wrong": ":bomb:"
+    },
+    "towers":{
+        "right": ":star:",
+        "wrong": ":bomb:"
+    }
+}
